@@ -5,5 +5,5 @@ This repo is a collection of `jupyter notebooks <https://jupyter.org>`_ illustra
 
 Feel free to suggest and add further examples!
 
-To make the notebooks include nicely into the `TeNPy documentation <https://tenpy.readthedocs.org/latest/master/examples.html#notebooks>`,
+To make the notebooks include nicely into the `TeNPy documentation <https://tenpy.readthedocs.io/en/latest/examples.html#jupyter-notebooks>`,
 please add a cell with the title of the example at the beginning, and use only subtitles afterwards.
