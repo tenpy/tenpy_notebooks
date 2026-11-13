@@ -361,7 +361,7 @@
    "source": [
     "print(\"Correlation lengths: \")\n",
     "model = results_loops[(+5., +5.)]['model']\n",
-    "print(np.array([psi.correlation_length() / model.lat.N_sites_per_ring for psi in psi_list]))"
+    "print(np.array([psi.correlation_length() for psi in psi_list]))"
    ]
   },
   {
